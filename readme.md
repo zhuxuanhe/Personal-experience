@@ -3,3 +3,13 @@
 记录一下日记 
 笔记
 
+## git MOC
+
++ git clone
+
++ git add .
++ git pull
++ git commit -m "second"
++ git push
+
+# test
